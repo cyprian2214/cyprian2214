@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyprian2214
 - 👀 I’m interested in Pool and Coding
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning FullStack Web Developer at Zaio
 - 💞️ I’m looking to collaborate on any projects related to my course.
 - 📫 How to reach me call or Whatsapp on 071 173 8079
 
